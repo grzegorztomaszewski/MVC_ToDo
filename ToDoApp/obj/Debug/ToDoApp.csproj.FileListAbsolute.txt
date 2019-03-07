@@ -88,3 +88,4 @@ C:\Users\Dell\Desktop\Projekty lokalne\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.
 C:\Users\Dell\Desktop\Projekty lokalne\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CopyComplete
 C:\Users\Dell\Desktop\Projekty lokalne\ToDoApp\ToDoApp\obj\Debug\ToDoApp.dll
 C:\Users\Dell\Desktop\Projekty lokalne\ToDoApp\ToDoApp\obj\Debug\ToDoApp.pdb
+C:\Users\Dell\Desktop\Projekty lokalne\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csprojAssemblyReference.cache
